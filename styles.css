@@ -1,0 +1,9 @@
+img.card-img-top {
+    float: left;
+    margin-right: 16px;
+    width: 250px;
+}
+
+div.container-fluid {
+    width: 75%;
+}
