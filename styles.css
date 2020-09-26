@@ -5,11 +5,27 @@ img.card-img-top {
 }
 
 div.container-fluid {
-    width: 75%;
+    /* width: 75%; */
+    border-bottom: 10px solid;
 }
 
 body {
     background-image: url('https://chiprewards.com/wp-content/uploads/2017/12/Light-Gray-background.png');
-    border-bottom: 10px solid;
+    /* border-bottom: 10px solid; */
     /* height: 100%; */
+}
+div.row {
+    width: 100%;
+    padding-left: 15px;
+}
+
+.portfolio-img {
+    padding: 0px 15px 15px 15px;
+    width: 320px;
+    height: 320px;
+}
+
+div.card {
+    height: 100%;
+    overflow: auto;
 }
