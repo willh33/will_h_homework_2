@@ -7,3 +7,9 @@ img.card-img-top {
 div.container-fluid {
     width: 75%;
 }
+
+body {
+    background-image: url('https://chiprewards.com/wp-content/uploads/2017/12/Light-Gray-background.png');
+    border-bottom: 10px solid;
+    /* height: 100%; */
+}
