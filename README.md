@@ -1,6 +1,6 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-This is my responsive portfolio website
+Here is the repo for my responsive portfolio website
 
 
 ## Github Pages link to running deployed application
