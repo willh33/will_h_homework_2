@@ -41,6 +41,11 @@ div.card {
     overflow: auto;
 }
 
+img#reserve-a-room-img {
+    height: 520px;
+    width: 700px;
+}
+
 
 @media only screen and (max-width: 500px) {
     html#index-html.h-100 {
